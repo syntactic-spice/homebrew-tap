@@ -1,5 +1,17 @@
 # Syntactic-spice Tap
 
+## Casks
+
+| Name | Description | Developer |
+| ---- | ----------- | --------- |
+| `logseq-og` | Markdown version of the Logseq knowledge base. Use the official cask instead for the DB version. | [Logseq](https://github.com/logseq/og) |
+
+## Formulae
+
+| Name | Description | Developer |
+| ---- | ----------- | --------- |
+| _None yet_ | | |
+
 ## How do I install these formulae?
 
 `brew install syntactic-spice/tap/<formula>`
