@@ -4,6 +4,7 @@
 
 | Name | Description | Developer |
 | ---- | ----------- | --------- |
+| `devsy` | GUI for managing local and cloud devcontainer-based environments | [Devsy](https://github.com/devsy-org/devsy) |
 | `logseq-og` | Markdown version of the Logseq knowledge base. Use the official cask instead for the DB version. | [Logseq](https://github.com/logseq/og) |
 
 ## Formulae
